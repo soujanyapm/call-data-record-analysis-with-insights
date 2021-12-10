@@ -1,0 +1,43 @@
+.custom-tabs {
+    border-top-left-radius: 3px;
+    padding: 10px 24px;
+}
+
+.custom-tab {
+    color: white !important;
+    background-color: #039cde !important;
+    padding: 12px !important;
+    font-family: "system-ui";
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    border:none !important
+}
+.custom-tab--selected {
+    color: white !important;
+    border-bottom: 3px solid white !important;
+    background-color: #039cde !important;
+    font-weight:500
+}
+
+.custom-tabs-container {
+   
+}
+
+.remove-margin{
+margin-left: 0px !important;
+margin-right:0px !important
+}
+
+.service-analysis{
+background-color: #daecff;
+}
+
+body{
+background-color:#e9ecef;
+}
+
+#main-title{
+color: white;
+padding-top:30px
+}
