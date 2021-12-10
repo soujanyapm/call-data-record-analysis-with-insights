@@ -12,10 +12,13 @@
 + Plotly express
 + Plotly graph objects
 
+## Call data analysis
+![ScreenShot](/images/screenshot1.png)
 
-![ScreenShot](/images/screenshot1.PNG)
+## Device data analysis
+![ScreenShot](/images/screenshot2.png)
 
-![ScreenShot](/images/screenshot2.PNG)
 
-
+## Service data analysis
+![ScreenShot](/images/screenshot3.png)
 
